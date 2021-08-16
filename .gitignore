@@ -279,3 +279,5 @@ moneybore/media/
 bundles/
 webpack-stats.json
 .env
+
+*.pyc
